@@ -89,7 +89,7 @@ One of your goals is to return a database record of the order - for this you'll 
 3. Log data in console
 
 ## Submission format
-
+ 
 Follow these steps for completing your project.
 
 - [ ] Submit a pull request to merge `<firstName-lastName>` branch into the `main` branch (student's repo). **Please don't merge your own pull request**
